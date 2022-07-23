@@ -1,4 +1,9 @@
-(Round brackets) - kerek zárójelek
-[Square brackets] - szögletes zárójelek
-{curly brackets} - göndör zárójel
+<!-- (Round brackets) 
+[Square brackets]  
+{curly brackets} 
 <angle brackets>
+
+
+
+
+-->
